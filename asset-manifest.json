@@ -1,13 +1,13 @@
 {
-  "main.css": "%3Chttps://lee-oconnor.github.io/sticky-notes-app%3E/static/css/main.138408cb.chunk.css",
-  "main.js": "%3Chttps://lee-oconnor.github.io/sticky-notes-app%3E/static/js/main.d8a68bb3.chunk.js",
-  "main.js.map": "%3Chttps://lee-oconnor.github.io/sticky-notes-app%3E/static/js/main.d8a68bb3.chunk.js.map",
-  "runtime~main.js": "%3Chttps://lee-oconnor.github.io/sticky-notes-app%3E/static/js/runtime~main.6ec26289.js",
-  "runtime~main.js.map": "%3Chttps://lee-oconnor.github.io/sticky-notes-app%3E/static/js/runtime~main.6ec26289.js.map",
-  "static/js/2.da757658.chunk.js": "%3Chttps://lee-oconnor.github.io/sticky-notes-app%3E/static/js/2.da757658.chunk.js",
-  "static/js/2.da757658.chunk.js.map": "%3Chttps://lee-oconnor.github.io/sticky-notes-app%3E/static/js/2.da757658.chunk.js.map",
-  "index.html": "%3Chttps://lee-oconnor.github.io/sticky-notes-app%3E/index.html",
-  "precache-manifest.8d878edfa32accb2de2b06a4f1268bd8.js": "%3Chttps://lee-oconnor.github.io/sticky-notes-app%3E/precache-manifest.8d878edfa32accb2de2b06a4f1268bd8.js",
-  "service-worker.js": "%3Chttps://lee-oconnor.github.io/sticky-notes-app%3E/service-worker.js",
-  "static/css/main.138408cb.chunk.css.map": "%3Chttps://lee-oconnor.github.io/sticky-notes-app%3E/static/css/main.138408cb.chunk.css.map"
+  "main.css": "/sticky-notes-app/static/css/main.138408cb.chunk.css",
+  "main.js": "/sticky-notes-app/static/js/main.d8a68bb3.chunk.js",
+  "main.js.map": "/sticky-notes-app/static/js/main.d8a68bb3.chunk.js.map",
+  "runtime~main.js": "/sticky-notes-app/static/js/runtime~main.11529745.js",
+  "runtime~main.js.map": "/sticky-notes-app/static/js/runtime~main.11529745.js.map",
+  "static/js/2.da757658.chunk.js": "/sticky-notes-app/static/js/2.da757658.chunk.js",
+  "static/js/2.da757658.chunk.js.map": "/sticky-notes-app/static/js/2.da757658.chunk.js.map",
+  "index.html": "/sticky-notes-app/index.html",
+  "precache-manifest.b8115a1335d37c8b6ccd2dfa531f746f.js": "/sticky-notes-app/precache-manifest.b8115a1335d37c8b6ccd2dfa531f746f.js",
+  "service-worker.js": "/sticky-notes-app/service-worker.js",
+  "static/css/main.138408cb.chunk.css.map": "/sticky-notes-app/static/css/main.138408cb.chunk.css.map"
 }

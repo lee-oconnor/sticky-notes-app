@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "%3Chttps://lee-oconnor.github.io/sticky-notes-app%3E/precache-manifest.8d878edfa32accb2de2b06a4f1268bd8.js"
+  "/sticky-notes-app/precache-manifest.b8115a1335d37c8b6ccd2dfa531f746f.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("%3Chttps://lee-oconnor.github.io/sticky-notes-app%3E/index.html", {
+workbox.routing.registerNavigationRoute("/sticky-notes-app/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
