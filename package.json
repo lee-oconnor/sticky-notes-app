@@ -2,7 +2,7 @@
   "name": "l12-build-your-big-component-help",
   "version": "1.0.0",
   "description": "",
-  "homepage": "<https://lee-oconnor.github.io/sticky-notes-app>",
+  "homepage": "https://lee-oconnor.github.io/sticky-notes-app",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
